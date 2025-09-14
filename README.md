@@ -58,9 +58,11 @@ Nomor Kabel(Kegunaan):
 
 Nomor Kabel yang dihapus:
 
+21.END
+
 
 output pengecekan data Kabel-Kabel internet wifi Didalam Gudang Telkom
-![img alt](
+![img alt](https://github.com/syawal619/mini-projcet-syawal-/blob/e4a6928ffc7bdbd0742ee32ae8dd9a9ed3059551/foto%20vscode.png)
 
-21.END
+
 
