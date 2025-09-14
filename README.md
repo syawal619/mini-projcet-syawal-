@@ -85,7 +85,7 @@ untuk penghapus kabel  kita harus memilih dulu kabel yang ada didalam ist terseb
 
 #riwayat pilihan
 
-![img alt](
+![img alt](https://github.com/syawal619/mini-projcet-syawal-/blob/b7232c27368591289a4b4f9e0224fbda794f3b6a/riwayat.png)
 
 riwayat pilihan untuk mengeluarkan jawaban yang kita sudah isi di output sebelumnya
 
