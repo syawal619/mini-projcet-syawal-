@@ -33,5 +33,3 @@ Nomor Kabel(Kegunaan):
 Nomor Kabel yang dihapus:
 21.END
 
-
-n
