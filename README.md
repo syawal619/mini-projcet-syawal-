@@ -19,6 +19,7 @@ Flowcart pengecekan data Kabel-Kabel internet wifi Didalam Gudang Telkom
 6.pilih = 3 => Pengertian Kabel Lan Adalah Jaringan Fisik Yang Digunakan Untuk Menghubungkan Perangkat Seperti Switch,Router
 
 7.pilih = 4 => Kabel stp Adalah jenis Kabel Pasangan terpilih yang memiliki lapisan pelindung tambahan
+       
 
 8.kabel kabel
 
@@ -62,7 +63,9 @@ Nomor Kabel yang dihapus:
 
 
 output pengecekan data Kabel-Kabel internet wifi Didalam Gudang Telkom
-![img alt](https://github.com/syawal619/mini-projcet-syawal-/blob/e4a6928ffc7bdbd0742ee32ae8dd9a9ed3059551/foto%20vscode.png)
+![img alt(
+
+
 
 
 
