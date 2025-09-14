@@ -63,10 +63,27 @@ Nomor Kabel yang dihapus:
 
 
 output pengecekan data Kabel-Kabel internet wifi Didalam Gudang Telkom
-![img alt(
+![img alt](https://github.com/syawal619/mini-projcet-syawal-/blob/4dbc69d1826f405638e3afc283d1a76a36a051b0/foto%20vscode.png)
 
+#Pengecekan Gudang internet
 
+Jadi Nanti ada list kabel kabel yang sudah di didalam gudang tersebut nanti akan kita pilih kabel tersebut yang kita mau
 
+#pengertian kabel
+
+Untuk pengertian kabel kita harus memilih dulu kabel yg ada didalam list tersebut setelah di pilih nanti pengertian kabel tersebut muncul
+
+#kegunaan kabel
+
+untuk kegunaan kabel kita harus memilih dulu kabel yang ada didalam ist tersebut seteah di pilih nanti kegunaan kabel tersebut muncul
+
+#penghapus kabel
+
+untuk penghapus kabel  kita harus memilih dulu kabel yang ada didalam ist tersebut seteah di pilih nanti penghapus kabel tersebut hilang di list
+
+#riwayat pilihan
+
+riwayat pilihan untuk mengeluarkan jawaban yang kita sudah isi di output sebelumnya
 
 
 
