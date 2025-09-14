@@ -73,11 +73,13 @@ Untuk pengertian kabel kita harus memilih dulu kabel yg ada didalam list tersebu
 
 #kegunaan kabel
 
-![img alt](
+![img alt](https://github.com/syawal619/mini-projcet-syawal-/blob/e55211a01d0b54fc6f410fed0f57c00b80333d2f/kegunaan.png)
 
 untuk kegunaan kabel kita harus memilih dulu kabel yang ada didalam ist tersebut seteah di pilih nanti kegunaan kabel tersebut muncul
 
 #penghapus kabel
+
+![img alt](
 
 untuk penghapus kabel  kita harus memilih dulu kabel yang ada didalam ist tersebut seteah di pilih nanti penghapus kabel tersebut hilang di list
 
