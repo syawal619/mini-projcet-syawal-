@@ -79,11 +79,13 @@ untuk kegunaan kabel kita harus memilih dulu kabel yang ada didalam ist tersebut
 
 #penghapus kabel
 
-![img alt](
+![img alt](https://github.com/syawal619/mini-projcet-syawal-/blob/448efde5ee7ce6b37403c53c0c222a9f780efe38/penghapus.png)
 
 untuk penghapus kabel  kita harus memilih dulu kabel yang ada didalam ist tersebut seteah di pilih nanti penghapus kabel tersebut hilang di list
 
 #riwayat pilihan
+
+![img alt](
 
 riwayat pilihan untuk mengeluarkan jawaban yang kita sudah isi di output sebelumnya
 
