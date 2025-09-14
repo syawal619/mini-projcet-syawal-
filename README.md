@@ -63,8 +63,7 @@ Nomor Kabel yang dihapus:
 
 
 output pengecekan data Kabel-Kabel internet wifi Didalam Gudang Telkom
-![img alt](https://github.com/syawal619/mini-projcet-syawal-/blob/4dbc69d1826f405638e3afc283d1a76a36a051b0/foto%20vscode.png)
-
+![img alt](
 #Pengecekan Gudang internet
 
 Jadi Nanti ada list kabel kabel yang sudah di didalam gudang tersebut nanti akan kita pilih kabel tersebut yang kita mau
