@@ -1,5 +1,6 @@
 # mini-projcet-syawal-
 muhammad Syawal samir
+2509116079
 
 Flowcart pengecekan data Kabel-Kabel internet wifi Didalam Gudang Telkom
 
@@ -56,6 +57,10 @@ Nomor Kabel (Pengertian):
 Nomor Kabel(Kegunaan):
 
 Nomor Kabel yang dihapus:
+
+
+output pengecekan data Kabel-Kabel internet wifi Didalam Gudang Telkom
+![img alt](
 
 21.END
 
